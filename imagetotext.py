@@ -1,7 +1,7 @@
 from google.cloud import vision
 import os
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS']='C:/Coding/Own/Python/Google-OCR/adroit-booth-424814-j5-2ba92fa29155.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS']='YOUR-API-KEY'
 
 def detect_document(path):
     from google.cloud import vision
