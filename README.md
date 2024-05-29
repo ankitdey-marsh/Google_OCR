@@ -13,7 +13,7 @@ A simple implementation of Google CLoud Vision API to perform Optical Character 
 3. `python -m venv env` to create a vitual environment.    
 4. `pip install -r requirements.txt` to install libraries.
 5. `Python ./main.py` to execute the python file.
-6. Head over to __[Spotify for Developers]("https://developer.spotify.com/")__ and create an __api-key__ according to the instructions present in the `Google Cloud Platform`.
+6. Create an __api-key__ according to the instructions present in the `Google Cloud Platform`.
 
 
 ## Configurations
